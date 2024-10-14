@@ -31,7 +31,7 @@ let uliki_martin = [
 let uliki_rebeca = [
     {name:"Joker #1", info:"Parola de pe telefon este direct legată de Rebecca. Informațiile ei personale."},
     {name:"Joker #2", info:"Există ceva important în istoricul căutărilor pe internet!"},
-    {name:"Joker #3", info:"Îți place să numeri? Caută în Note.Acolo este un mesaj codat."},
+    {name:"Joker #3", info:"Pentru a găsi parola aplicației profesorului. Deschideți aplicația Note. Există un cod lung. Folosind acest cod, numărați cuvintele din biletul lui Katie. (Lista cu o mulțime de cuvinte aleatorii). De exemplu, numărul „20” înseamnă al 20-lea cuvânt din listă."},
     {name:"Joker #4", info:"Cine întreține site-ul web al școlii?"}
 ]
 
