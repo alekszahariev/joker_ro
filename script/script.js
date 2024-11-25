@@ -20,12 +20,12 @@ input.addEventListener('keypress', (event)=>{
 
 
 let uliki_martin = [
-    {name:"Жокер №1", info:"Началото е в снимките."},
-    {name:"Жокер №2", info:"Имената имат значение."},
-    {name:"Жокер №3", info:"Понякога се налага да се обърнеш. #3"},
-    {name:"Жокер №4", info:"Търсите човек, който яде човек :)"},
-    {name:"Жокер №5", info:"Не е Тодор!"},
-    {name:"Жокер №6", info:"Стига толкова жокери.. успех! :)"}
+    {name:"Joker №1", info:"Începutul este în imagini."},
+    {name:"Joker №2", info:"Numele contează."},
+    {name:"Joker №3", info:"Uneori trebuie să te întorci."},
+    {name:"Joker №4", info:"Cauți un om care mănâncă om :)"},
+    {name:"Joker №5", info:"Nu este Todor!"},
+    {name:"Joker №6", info:"Ajunge cu jokerii... noroc :)"}
 ]
 
 let uliki_rebeca = [
@@ -36,11 +36,12 @@ let uliki_rebeca = [
 ]
 
 let uliki_ardjikov = [
-    {name:"Жокер №1", info:"Използвайте търсачката за да намерите емайла на Арджиков."},
-    {name:"Жокер №2", info:"Шифърът в папката (бялото листче с йероглифи) може да разрешите от приложението Photos"},
-    {name:"Жокер №3", info:"За да намерите ип адреса трябва да влезете във фейсбук и да намерите скрития номер и да му звъннете."},
-    {name:"Жокер №4", info:"Любимия актьор на арджиков може да откриете , като намеруте любимия му филм в Photos.."},
-    {name:"Жокер №5", info:"Използвайте функцията - забравена парола"}
+    {name:"Joker №1", info:"Folosește motorul de căutare pentru a găsi e-mailul lui Ardzhikov."},
+    {name:"Joker №2", info:"Cifrul din dosar (bucata albă de hârtie cu caractere) poate fi rezolvat din aplicația Fotografii"},
+    {name:"Joker №3", info:"Pentru a găsi adresa ip trebuie să vă conectați la Facebook și să găsiți numărul ascuns și să îl apelați."},
+    {name:"Joker №4", info:"Puteți găsi actorul preferat al lui Ardzhikov , prin găsirea filmului său preferat în Fotografii.."},
+    {name:"Joker №5", info:"Utilizați funcția - „am uitat parola”"},
+    {name:"Joker №6", info:"Există un număr ascuns în postările de pe Facebook"}
 ]
 
 function checkcase(){
