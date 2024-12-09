@@ -20,7 +20,7 @@ input.addEventListener('keypress', (event)=>{
 
 
 let uliki_martin = [
-    {name:"Joker №1", info:"Începutul este în imagini."},
+    {name:"Joker №1", info:"Pentru primul pas al parolei digitale.. Fiecare primă literă este importantă."},
     {name:"Joker №1-2", info:"Trebuie să cauți literele ascunse în fotografii"},
     {name:"Joker №2", info:"Numele contează."},
     {name:"Joker №3", info:"Uneori trebuie să te întorci."},
