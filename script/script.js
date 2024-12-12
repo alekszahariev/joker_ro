@@ -45,6 +45,13 @@ let uliki_ardjikov = [
     {name:"Joker №6", info:"Există un număr ascuns în postările de pe Facebook"}
 ]
 
+let uliki_maria = [
+    {name:"Joker №1", info:"Uitați-vă bine la imaginea cu oglinda. Ar trebui să găsiți ceva care să vă conducă pe calea cea bună."},
+    {name:"Joker №2", info:"Gândiți-vă la toți suspecții care ar fi câștigat cel mai mult din moartea Mariei?"},
+    {name:"Joker №3", info:"Ce legătură are cartea de adrese găsită în camera Mariei? Încearcă să intri în mintea ei. De ce are Maria această agendă?"},
+    {name:"Joker №4", info:"Crimele menționate în interogatoriul cu Morello #2 par ciudate. "}
+]
+
 function checkcase(){
     let code = input.value.toLowerCase().replace(/\s/g, '')
     let hashedcode = CryptoJS.SHA256(code).toString();
