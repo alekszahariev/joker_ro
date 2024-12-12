@@ -103,7 +103,7 @@ function checkcase(){
 function ShowMaria(){
     // Iterate over each object in the array
 uliki_maria.forEach((ulika) => {
-    document.getElementById("title_case").innerHTML = "Случай: Мария"
+    document.getElementById("title_case").innerHTML = "Caz: Maria"
     document.querySelector(".writecode").style.display = "none";
     const uliki_div = document.querySelector(".uliki");
     uliki_div.innerHTML += ` <div class="ulika">
