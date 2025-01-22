@@ -103,7 +103,7 @@ function checkcase(){
 function ShowMaria(){
     // Iterate over each object in the array
 uliki_maria.forEach((ulika) => {
-    document.getElementById("title_case").innerHTML = "Caz: Maria"
+    document.getElementById("title_case").innerHTML = "Dosarul: Maria"
     document.querySelector(".writecode").style.display = "none";
     const uliki_div = document.querySelector(".uliki");
     uliki_div.innerHTML += ` <div class="ulika">
@@ -129,7 +129,7 @@ AllUliki.forEach((single_ulika) =>{
 function ShowMartin(){
     // Iterate over each object in the array
 uliki_martin.forEach((ulika) => {
-    document.getElementById("title_case").innerHTML = "Случай: Мартин"
+    document.getElementById("title_case").innerHTML = "Dosarul : Martin"
     document.querySelector(".writecode").style.display = "none";
     const uliki_div = document.querySelector(".uliki");
     uliki_div.innerHTML += ` <div class="ulika">
@@ -207,7 +207,7 @@ AllUliki.forEach((single_ulika) =>{
 function ShowArdjikov(){
     // Iterate over each object in the array
 uliki_ardjikov.forEach((ulika) => {
-    document.getElementById("title_case").innerHTML = "Случай: Арджиков"
+    document.getElementById("title_case").innerHTML = "Dosarul: Ardjikov"
     document.querySelector(".writecode").style.display = "none";
     const uliki_div = document.querySelector(".uliki");
     uliki_div.innerHTML += ` <div class="ulika">
